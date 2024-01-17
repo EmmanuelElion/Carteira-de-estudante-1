@@ -1,0 +1,10 @@
+O programa consiste em basicamente editar uma foto de uma carteirinha de estudante ja pré definida. 
+Como exemplo estamos usando uma carteirinha criada com o nome da FGV, apenas para o efeito de testes... 
+
+OBSERVAÇÕES: 
+  1- o programa deve conter uma pasta chamada "pdf_a_editar" 
+  dentro dele deve estar o arquivo "fundo_pdf.pmg" 
+
+  2- deve ter uma pasta chamada "pdf_editado" para o arquivo gerado da carteirinha ser enviado para ele 
+
+  
