@@ -1,0 +1,9 @@
+Lista das proximas implementações: 
+           
+  I- Arrumar a pesquisa de "estudantes cadastrados" para funcionar com o CPF tambem 
+
+  II- Adicionar a opção de foto no cadastro do estudante para assim gerar a carteirinha com foto 3x4 do estudante 
+
+  
+  
+  
